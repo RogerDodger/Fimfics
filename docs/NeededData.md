@@ -1,12 +1,25 @@
 stories:
+	id,
+	user_id,
 	wordcount,
-	chapters:
-		views,
-		wordcount,
-		publish time,
 	tags,
 	characters,
 	rating,
-likes,
-dislikes,
-favourites,
+chapters:
+	id,
+	story_id,
+	views,
+	wordcount,
+	publish time,
+likes:
+	user_id,
+	story_id,
+	timestamp,
+dislikes:
+	user_id,
+	story_id,
+	timestamp,
+favourites:
+	user_id,
+	story_id,
+	timestamp,
