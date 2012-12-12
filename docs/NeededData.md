@@ -8,9 +8,12 @@ stories:
 chapters:
 	id,
 	story_id,
-	views,
 	wordcount,
 	publish time,
+views:
+	user_id,
+	chapter_id (story_id?),
+	timestamp,
 likes:
 	user_id,
 	story_id,
