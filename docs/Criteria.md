@@ -1,10 +1,10 @@
 Criteria
---------
+========
 
 It's a recommendation system that's going to be used by people. The backbone is all soulless maths and algorithms, but there's a lot of ways to go about this. There are a number of criteria that the system ought to consider.
 
 Ratings
-=======
+-------
 
 The first question to ask is obviously, "What is a rating on Fimfiction?" The likes/dislikes meter is almost always fully green. People rarely want to give something the red thumb down unless it really ground their gears.
 
@@ -23,14 +23,14 @@ This seems fairly diverse. There is some consideration needed to be made about a
 The use of views as data points gives more variability in a user's impression beyond whether or not they "liked" it.
 
 Diversity
-=========
+---------
 
 It can't be said enough that a lack of diversity plagues all kinds of recommendation systems, both automated and non-automated (top 40 radio stations). Aside from the obvious rich-get-richer problems, a person might pigeonhole themselves too easily into only looking for things based on certain criteria – tags, characters, etc – despite being much inclined to like things that fall outside of those criteria.
 
 The system ought not to only give people accurate recommendations, but to recommend items that are somewhat dissimilar from each other. This allows readers to discover things they otherwise wouldn't.
 
 Freshness
-=========
+---------
 
 A purely rating-based recommendation system doesn't consider the age of an item. In popular e-commerce recommendation systems, such data isn't relevant – when a product was released doesn't matter all that much to a potential buyer. But the art world is constantly moving, and people want to read what's new.
 
