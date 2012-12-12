@@ -1,10 +1,12 @@
 stories:
 	wordcount,
-	likes,
-	dislikes,
-	favourites,
 	chapters:
 		views,
+		wordcount,
 		publish time,
-		is_published,
-	
+	tags,
+	characters,
+	rating,
+likes,
+dislikes,
+favourites,
